@@ -1,0 +1,5 @@
+{
+  "name": "Live Market Tracker",
+  "description": "A sleek, real-time market data dashboard that provides live updates for various financial instruments. It features a table view with simulated live data and a powerful search function leveraging the Gemini API to fetch information on any stock ticker.",
+  "requestFramePermissions": []
+}
